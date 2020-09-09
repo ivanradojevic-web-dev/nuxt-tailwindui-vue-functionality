@@ -20,9 +20,9 @@
        
         <mega-menu></mega-menu>
 
-        <a href="#" class="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
-          Pricing
-        </a>
+        <nuxt-link to="spotify" class="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+          Spotify
+        </nuxt-link>
         <a href="#" class="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
           Docs
         </a>
