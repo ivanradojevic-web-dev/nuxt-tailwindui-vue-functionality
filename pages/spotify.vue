@@ -1,6 +1,7 @@
 <template>
 <div class="flex flex-col h-screen text-sm text-gray-400">
-<div class="bg-blue-500 flex-1 flex overflow-y-hidden">
+
+<div class="bg-blue-500 flex overflow-hidden">
 
   <div class=" bg-gray-900 w-48 flex-none  flex flex-col justify-between font-semibold">
 
@@ -73,18 +74,42 @@
 
   </div>
 
-  <div class="sidebar-content bg-gray-800 flex-1 overflow-y-auto">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
-</div>
+
+
+
+
+  <div class="sidebar-content bg-gray-800 flex-1  flex flex-col  ">
+
+      <div class=" flex justify-between  ">
+
+        <div>1</div>
+        <div>2</div>
+
+      </div>
+
+      <div class="overflow-y-auto ">contentbrttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt tzutzujzt ztttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt zthrthh hjruzj</div>
+
+  </div>
+
+
+
+
+
+
+
+
+
 
 </div>
  
 
-<div class="bg-gray-700 flex-none h-20 px-5 flex items-center justify-between">
+
+
+<div class="bg-gray-700 flex-none h-20 px-5 flex items-center justify-between overflow-hidden">
 
 
   <div class="flex items-center flex-none ">
-    <a href=""><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" class="w-12 h-12"></a>
+    <a href="#"><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" class="w-12 h-12"></a>
 
     <div class="flex flex-col ml-2">
 
