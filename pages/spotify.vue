@@ -89,65 +89,274 @@
 
       <div class="overflow-y-auto ">
         
-        <div class="container mx-auto">
+        <div class="container mx-auto overflow-x-hidden">
 
           <h2 class="mt-24 text-5xl font-semibold text-white">Home</h2>
+
+
 
             <div class="mt-12" >
           
         <h3 class="font-semibold text-xl border-b border-gray-800 pb-2">Recently Played</h3>
 
-                 <div class="flex  mt-4 space-x-8  ">   
+                 <div class="flex  mt-4 space-x-8 overflow-hidden ">   
 
 
-                 <div class="w-1/5 px-4"  >
-<div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
-<div class="flex flex-col ml-2">
+                 <div class="w-1/5 px-4 flex-shrink-0​" >
+                  <div class=""><img src="psb.jpeg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
 
-     <div class="flex">
-    <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
-    </div> 
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Pet Shop Boys</p>
+                      </div> 
 
-       <div class="flex items-center">
-         <h4 class="hover:text-white">Love Theme</h4>
-      </div>
-    
-    
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Being Boring</h4>
 
-   </div>
+                    </div>
+                  </div>
                 </div>  
 
-
-
                  <div class="w-1/5 px-4"  >
-<div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
-<div class="flex flex-col ml-2">
+                  <div class="flex-shrink-0​"><img src="ryxp.jpeg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
 
-     <div class="flex">
-    <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
-    </div> 
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Röyksopp </p>
+                      </div> 
 
-       <div class="flex items-center">
-         <h4 class="hover:text-white">Love Theme</h4>
-      </div>
-    
-    
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Vision One</h4>
 
-   </div>
+                    </div>
+                  </div>
                 </div>  
 
+                <div class="w-1/5 px-4"  >
+                  <div><img src="uw.jpeg" alt="album cover" class="h-full w-full" ></div>
+                    <div class="flex flex-col ml-2">
 
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Underworld</p>
+                      </div> 
 
-                 <div class="w-1/5 px4">aa</div>
-                 <div class="w-1/5 px4">aa</div>
-                 <div class="w-1/5 px4">aa</div>
-                 
-                 
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Two Months Off</h4>
+
+                    </div>
+                  </div>
+                </div> 
+
+                <div class="w-1/5 px-4"  >
+                  <div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
+
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+                      </div> 
+
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Love Theme</h4>
+
+                    </div>
+                  </div>
+                </div> 
+
+                <div class="w-1/5 px-4"  >
+                  <div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
+
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+                      </div> 
+
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Love Theme</h4>
+
+                    </div>
+                  </div>
+                </div> 
 
                   </div>
 
+            </div>
+
+
+            <div class="mt-12" >
+          
+        <h3 class="font-semibold text-xl border-b border-gray-800 pb-2">Recomended</h3>
+
+                 <div class="flex  mt-4 space-x-8 overflow-hidden ">   
+
+
+                 <div class="w-1/5 px-4"  >
+                  <div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
+
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+                      </div> 
+
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Love Theme</h4>
+
+                    </div>
+                  </div>
+                </div>  
+
+                 <div class="w-1/5 px-4"  >
+                  <div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
+
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+                      </div> 
+
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Love Theme</h4>
+
+                    </div>
+                  </div>
+                </div>  
+
+                <div class="w-1/5 px-4"  >
+                  <div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
+
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+                      </div> 
+
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Love Theme</h4>
+
+                    </div>
+                  </div>
+                </div> 
+
+                <div class="w-1/5 px-4"  >
+                  <div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
+
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+                      </div> 
+
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Love Theme</h4>
+
+                    </div>
+                  </div>
+                </div> 
+
+                <div class="w-1/5 px-4"  >
+                  <div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
+
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+                      </div> 
+
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Love Theme</h4>
+
+                    </div>
+                  </div>
+                </div> 
+
+                  </div>
 
             </div>
+
+
+
+            <div class="mt-12" >
+          
+        <h3 class="font-semibold text-xl border-b border-gray-800 pb-2">Popular</h3>
+
+                 <div class="flex  mt-4 space-x-8 overflow-hidden ">   
+
+
+                 <div class="w-1/5 px-4"  >
+                  <div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
+
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+                      </div> 
+
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Love Theme</h4>
+
+                    </div>
+                  </div>
+                </div>  
+
+                 <div class="w-1/5 px-4"  >
+                  <div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
+
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+                      </div> 
+
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Love Theme</h4>
+
+                    </div>
+                  </div>
+                </div>  
+
+                <div class="w-1/5 px-4"  >
+                  <div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
+
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+                      </div> 
+
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Love Theme</h4>
+
+                    </div>
+                  </div>
+                </div> 
+
+                <div class="w-1/5 px-4"  >
+                  <div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
+
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+                      </div> 
+
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Love Theme</h4>
+
+                    </div>
+                  </div>
+                </div> 
+
+                <div class="w-1/5 px-4"  >
+                  <div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+                    <div class="flex flex-col ml-2">
+
+                      <div class="flex">
+                        <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+                      </div> 
+
+                    <div class="flex items-center">
+                      <h4 class="hover:text-white">Love Theme</h4>
+
+                    </div>
+                  </div>
+                </div> 
+
+                  </div>
+
+            </div>
+
+
 
 
 
