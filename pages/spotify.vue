@@ -78,16 +78,84 @@
 
 
 
-  <div class="sidebar-content bg-gray-800 flex-1  flex flex-col  ">
+  <div class="sidebar-content bg-gray-800 flex-1 flex flex-col">
 
       <div class=" flex justify-between  ">
 
-        <div>1</div>
-        <div>2</div>
+        <div>levo</div>
+        <div>desno</div>
 
       </div>
 
-      <div class="overflow-y-auto ">contentbrttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt tzutzujzt ztttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt zthrthh hjruzj</div>
+      <div class="overflow-y-auto ">
+        
+        <div class="container mx-auto">
+
+          <h2 class="mt-24 text-5xl font-semibold text-white">Home</h2>
+
+            <div class="mt-12" >
+          
+        <h3 class="font-semibold text-xl border-b border-gray-800 pb-2">Recently Played</h3>
+
+                 <div class="flex  mt-4 space-x-8  ">   
+
+
+                 <div class="w-1/5 px-4"  >
+<div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+<div class="flex flex-col ml-2">
+
+     <div class="flex">
+    <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+    </div> 
+
+       <div class="flex items-center">
+         <h4 class="hover:text-white">Love Theme</h4>
+      </div>
+    
+    
+
+   </div>
+                </div>  
+
+
+
+                 <div class="w-1/5 px-4"  >
+<div><img src="R-1306664-1318369920.jpeg.jpg" alt="album cover" ></div>
+<div class="flex flex-col ml-2">
+
+     <div class="flex">
+    <p class="hover:text-white text-gray-500 mt-2">Vangelis</p>
+    </div> 
+
+       <div class="flex items-center">
+         <h4 class="hover:text-white">Love Theme</h4>
+      </div>
+    
+    
+
+   </div>
+                </div>  
+
+
+
+                 <div class="w-1/5 px4">aa</div>
+                 <div class="w-1/5 px4">aa</div>
+                 <div class="w-1/5 px4">aa</div>
+                 
+                 
+
+                  </div>
+
+
+            </div>
+
+
+
+
+
+        </div>
+
+      </div>
 
   </div>
 
